@@ -1,4 +1,4 @@
-FROM base/archlinux
+FROM nfnty/arch-mini
 MAINTAINER Limbomedia <admin@limbomedia.net>
 
 ADD http://limbomedia.net/files/limbomedia-2.0-bin.zip /
