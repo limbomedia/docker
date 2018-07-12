@@ -1,6 +1,6 @@
 LimboMedia, officially dockerized!
 ======
-Your home and media server: [http://limbomedia.net][1]
+Your home and media server: [https://limbomedia.net][1]
 
 Startup (as deamon):
 
@@ -14,4 +14,4 @@ Startup (interactive):
 
 Note: UPnP/DLNA is disabled, because of dockers multicast-network-capabilities.
 
-  [1]: http://limbomedia.net
+  [1]: https://limbomedia.net
