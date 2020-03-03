@@ -3,8 +3,8 @@ MAINTAINER LimboMedia <admin@limbomedia.net>
 
 RUN apk add --update --no-cache openjdk11-jre-headless ffmpeg imagemagick bash
 
-ADD https://limbomedia.net/res/dist/limbomedia-2.14-bin.zip /
-RUN unzip limbomedia-2.14-bin.zip && rm limbomedia-2.14-bin.zip && mkdir data
+ADD https://limbomedia.net/res/dist/limbomedia-2.15-bin.zip /
+RUN unzip limbomedia-2.15-bin.zip && rm limbomedia-2.15-bin.zip && mkdir data
 
 VOLUME /data
 
